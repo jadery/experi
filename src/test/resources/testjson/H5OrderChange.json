@@ -1,0 +1,54 @@
+{
+  "body": {
+    "orderID": "1119080551064364097714140371",
+    "productCode": "LN03",
+    "extra": "",
+    "originalStatus": "PAID_OK",
+    "currentStatus": "PAID_OK",
+    "itemList": [
+      {
+        "itemType": "ENDORSEMENT",
+        "itemID": "8971cc7a00ab4bdab3e1fb455e73662a",
+        "productCode": "LN03",
+        "extra": ""
+      }
+    ],
+    "paymentInfo": {
+      "payID": "1219080551064373095714140346",
+      "transactionID": "4200000377201908054986305013",
+      "payType": "WC_H5_PAY",
+      "payAmount": 1,
+      "payTime": "20190805141108",
+      "appID": "wx7f3f0032b6e6f0cc",
+      "openID": "oqYLv0PiQVgZCfUtO6a8iV2FQsZI",
+      "clientIP": "202.105.136.102",
+      "mchID": "1488512802",
+      "orderID": "1119080551064364097714140371",
+      "status": "PAID_OK",
+      "userID": "71a1a4ab248a48a59dc964b04b1ef82c"
+    }
+  },
+  "md": {
+    "method": [
+      "subscribePayCallback"
+    ],
+    "ws-method-name": [
+      "order-pay-service/subscribePayCallback"
+    ],
+    "ws-msg-id": [
+      "0aa759ab7ab04d0982c376ba487a7165"
+    ],
+    "ws-open-id": [
+      "oqYLv0PiQVgZCfUtO6a8iV2FQsZI"
+    ],
+    "ws-trace-id": [
+      "f2be727b6dd8b25d93e04687876eb83c"
+    ],
+    "ws-user-id": [
+      "71a1a4ab248a48a59dc964b04b1ef82c"
+    ],
+    "ws-wtagid": [
+      ""
+    ]
+  }
+}

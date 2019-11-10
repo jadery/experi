@@ -1,0 +1,24 @@
+{
+  "action": "send",
+  "adviserId": "v_wngzhang",
+  "msgid": "test435943658583696_1571041191",
+  "msgtime": 1571041191146,
+  "mstype": "text",
+  "receivers": [
+    {
+      "receiverid": "careyzhu_wesure.cn1",
+      "receiverName" : "宿磊"
+    },
+    {
+      "receiverid": "v_wngzhang",
+      "receiverName" : "张旺"
+    }
+  ],
+  "roomid": "testlCAAAHKaUVYU-aBQ7z8P0c0YGPw",
+  "sender": {
+    "senderName": "诚test",
+    "senderRole": 1,
+    "senderid": "testAAAZtopbzGNb0S_ZQUpIkpaYg"
+  },
+  "textContent": "9月管家满意度分析已发邮件，请确认邮件内容。@所有人  "
+}
